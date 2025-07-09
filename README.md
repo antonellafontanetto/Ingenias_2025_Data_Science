@@ -47,7 +47,7 @@ Mapas y documentos complementarios:
 
 📁
 
-├── data/           # Datasets procesados
+├── data/           # Dataset original y procesados
 
 ├── Pre-Entrega-2/      # Notebooks (diferentes versiones estudiadas) y Readme
 
