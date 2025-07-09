@@ -75,8 +75,6 @@ En el proyecto 4x4 de producción de petróleo y gas en Vaca Muerta, se aplicaro
 
 Lenguaje: Python 3.10+
 
-Librerías:
-
 Librerías: NumPy, Pandas, Geopandas, Shapely.geometry, Matplotlib, Scikit-learn, SciPy, PyTorch, TensorFlow y Keras
 
 Modelado Supervisado: RandomForestRegressor,SVR, XGBRegressor,GridSearchCV, MultiOutputRegressor, Prophet, train_test_split, mean_absolute_error
